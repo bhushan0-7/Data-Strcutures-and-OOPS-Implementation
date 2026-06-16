@@ -1,0 +1,16 @@
+Evaluating Q3 for CS20B001
+Programs/CS20B001_LAB8/CS20B001_LAB8_Q3.cpp: In function 'void buildAndPrintHuffmanTree(const string&)':
+Programs/CS20B001_LAB8/CS20B001_LAB8_Q3.cpp:59:22: warning: structured bindings only available with -std=c++17 or -std=gnu++17
+     for (auto const& [key, val] : freqMap) {
+                      ^
+Programs/CS20B001_LAB8/CS20B001_LAB8_Q3.cpp:68:26: warning: structured bindings only available with -std=c++17 or -std=gnu++17
+         for (auto const& [key, val] : huffmanCodes) {
+                          ^
+Programs/CS20B001_LAB8/CS20B001_LAB8_Q3.cpp:101:22: warning: structured bindings only available with -std=c++17 or -std=gnu++17
+     for (auto const& [key, val] : huffmanCodes) {
+                      ^
+Test test1: PASS
+Test test2: PASS
+Test test3: PASS
+Test test4: PASS
+Total Score for Q3: 4/4
