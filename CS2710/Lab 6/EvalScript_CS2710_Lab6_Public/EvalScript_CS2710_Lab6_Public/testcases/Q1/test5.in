@@ -1,0 +1,8 @@
+1
+6
+push front 99
+push back 88
+isEmpty
+pop back
+isEmpty
+pop front
