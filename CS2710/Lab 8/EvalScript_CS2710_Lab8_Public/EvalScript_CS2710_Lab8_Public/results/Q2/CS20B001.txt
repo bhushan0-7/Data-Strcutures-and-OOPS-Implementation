@@ -1,0 +1,8 @@
+Evaluating Q2 for CS20B001
+Test test1: PASS
+Test test2: PASS
+Test test3: PASS
+Test test4: PASS
+Test test5: PASS
+Test test6: PASS
+Total Score for Q2: 6/6
