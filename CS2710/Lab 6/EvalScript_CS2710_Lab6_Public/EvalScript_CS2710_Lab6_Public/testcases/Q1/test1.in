@@ -1,9 +1,0 @@
-4
-7
-push back 10
-push front 20
-push back 30
-push front 40
-pop front
-pop back
-isEmpty

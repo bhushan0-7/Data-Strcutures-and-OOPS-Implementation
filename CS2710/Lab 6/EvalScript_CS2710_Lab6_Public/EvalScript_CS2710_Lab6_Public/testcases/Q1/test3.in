@@ -1,8 +1,0 @@
-3
-6
-push front 1
-push front 2
-push back 3
-push front 4
-push back 5
-pop back
